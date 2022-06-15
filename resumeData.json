@@ -1,0 +1,185 @@
+{
+  "main": {
+    "name":"brent-hci-proj",
+    "description":"I am a web development engineer and I use reactjs to develop pages. This project is my resume, so feel free to explore",
+    "image":"profilepic.jpg",
+    "bio":"My name  is Brent G. Bernasol and I am an amatuer web developer in front-end and back-end projects. Since I was a kid I always love working with computers especially in pc gaming.",
+    "contactmessage":"Dear readers if you are interested to work a project with me, dont hesitate to contact me below. I am currently looking for clients who are looking to have development and maintenance in their websites.",
+    "email": "brent.bernasol@carsu.edu.ph",
+    "phone": "+63 9561201679",
+    "github":"https://github.com/brentbits/brent-hci-proj",
+    "project":"https://github.com/brentbits/brent-hci-proj",
+    "address":{
+      "street":"D-1, Kinabjangan",
+      "city":"Nasipit",
+      "state":"Agusan Del Norte",
+      "zip": "8602"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/brent.bernasol",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/brentbits/brent-hci-proj",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"This is My current skills in Programming Languages",
+    "education":[
+      {
+        "school":"Caraga State University",
+        "degree":"Bachelor of Science in Computer Science",
+        "graduated":"Ongoing",
+        "description":"The university experience is great and I still currently have school here."
+      },
+      {
+        "school":"Saint Michael College of Caraga",
+        "degree":"Tech Voc ICT",
+        "graduated":"March 2019",
+        "description":"My schooling here is great and this is where I first introduced to basic programming in C/C++ and java."
+      }
+    ],
+    "work":[
+      {
+        "company":"Wela School Systems",
+        "title":"Developer Intern ",
+        "years":"August 2021 - December 2021",
+        "description":"My Work involves the back-end maintenance of their website using the python language."
+      },
+      {
+        "company":"Computer Shop",
+        "title":"Computer Maintenance",
+        "years":"March 2017 - February 2018",
+        "description":"The workspace is always air conditioned so it was a great experience as well as free acess to gaming computers."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"C/C++",
+        "level":"95%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"20%"
+      },
+      {
+        "name":"Swift",
+        "level":"5%"
+      },
+      {
+        "name":"JAVA",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/brent-hci-proj/static/css/main.bab0b925.chunk.css",
+    "main.js": "/brent-hci-proj/static/js/main.d89e3b50.chunk.js",
+    "main.js.map": "/brent-hci-proj/static/js/main.d89e3b50.chunk.js.map",
+    "runtime-main.js": "/brent-hci-proj/static/js/runtime-main.86bdff29.js",
+    "runtime-main.js.map": "/brent-hci-proj/static/js/runtime-main.86bdff29.js.map",
+    "static/js/2.a25c794a.chunk.js": "/brent-hci-proj/static/js/2.a25c794a.chunk.js",
+    "static/js/2.a25c794a.chunk.js.map": "/brent-hci-proj/static/js/2.a25c794a.chunk.js.map",
+    "static/js/3.37192441.chunk.js": "/brent-hci-proj/static/js/3.37192441.chunk.js",
+    "static/js/3.37192441.chunk.js.map": "/brent-hci-proj/static/js/3.37192441.chunk.js.map",
+    "index.html": "/brent-hci-proj/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/brent-hci-proj/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.a25c794a.chunk.js.LICENSE.txt": "/brent-hci-proj/static/js/2.a25c794a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86bdff29.js",
+    "static/js/2.a25c794a.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.d89e3b50.chunk.js"
+  ]
+}
